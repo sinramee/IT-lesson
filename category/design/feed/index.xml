@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Design &#8211; IT-tutorial</title>
+	<atom:link href="httpsinramee.github.io/it_tutorial//category/design/feed/" rel="self" type="application/rss+xml" />
+	<link>httpsinramee.github.io/it_tutorial/</link>
+	<description></description>
+	<lastBuildDate>Thu, 17 Aug 2023 15:31:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+	<item>
+		<title>photoshop</title>
+		<link>httpsinramee.github.io/it_tutorial//2023/08/16/hello-world/</link>
+					<comments>httpsinramee.github.io/it_tutorial//2023/08/16/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[wp_tutorial]]></dc:creator>
+		<pubDate>Wed, 16 Aug 2023 09:01:16 +0000</pubDate>
+				<category><![CDATA[Design]]></category>
+		<guid isPermaLink="false">httpsinramee.github.io/it_tutorial//?p=1</guid>
+
+					<description><![CDATA[What is Photoshop? Photoshop is an image creation, graphic design and photo editing software developed by Adobe. The software provides many image editing features for&#160;pixel-based&#160;images,&#160;raster&#160;graphics and&#160;vector graphics. How does Photoshop work? Photoshop has been the industry&#160;standard&#160;image manipulation program for so long that its name has become a verb. It is common parlance to say that...]]></description>
+										<content:encoded><![CDATA[
+<h3 class="wp-block-heading">What is Photoshop?</h3>
+
+
+
+<p>Photoshop is an image creation, graphic design and photo editing software developed by Adobe. The software provides many image editing features for&nbsp;<a href="https://www.techtarget.com/whatis/definition/pixel">pixel</a>-based&nbsp;<a href="https://www.techtarget.com/whatis/definition/image">images</a>,&nbsp;<a href="https://www.techtarget.com/whatis/definition/raster-graphics">raster</a>&nbsp;graphics and&nbsp;<a href="https://www.techtarget.com/whatis/definition/vector-graphics">vector graphics</a>.</p>
+
+
+
+<h3 class="wp-block-heading">How does Photoshop work?</h3>
+
+
+
+<p>Photoshop has been the industry&nbsp;<a href="https://www.techtarget.com/whatis/definition/standard">standard</a>&nbsp;image manipulation program for so long that its name has become a verb. It is common parlance to say that an image has been &#8220;photoshopped,&#8221; or even just &#8220;shopped,&#8221; meaning that it&#8217;s been edited or manipulated.</p>
+
+
+
+<p>It uses a layer-based editing system that enables&nbsp;<a href="https://www.techtarget.com/whatis/definition/raster">raster image</a>&nbsp;creation and altering with multiple overlays that support transparency.</p>
+
+
+
+<p>Layers can also act as masks or filters, changing underlying colors. Shadows and other effects can be added to the layers.</p>
+
+
+
+<p>Adobe promotes Photoshop as a tool for professionals. However, beginners can use Photoshop as well with many helpful tutorials on the market that train users in how to use Photoshop&#8217;s various features.</p>
+
+
+
+<figure class="wp-block-image is-resized"><img decoding="async" fetchpriority="high" src="https://cdn.ttgtmedia.com/rms/onlineimages/photoshop-f_mobile.png" alt="Adobe Photoshop" style="width:838px;height:470px" width="838" height="470"/></figure>
+
+
+
+<h3 class="wp-block-heading">What are Photoshop&#8217;s features?</h3>
+
+
+
+<p>Photoshop comes with a multitude of features, fonts, effects, and brush or pen tools. Here are some of the most common ones:</p>
+
+
+
+<ul>
+<li><strong>Brushes</strong>&nbsp;are one of the most popular tools in Photoshop. They can be used for various effects, including&nbsp;<a href="https://www.theserverside.com/definition/compositing">compositing</a>, painting, erasing and retouching images.</li>
+
+
+
+<li><strong>The Clone Stamp&nbsp;</strong>allows you to copy pixels from one area of an image and paste them into another area. This is useful for repairing damaged or corrupt images.</li>
+
+
+
+<li><strong>The Healing Brush&nbsp;</strong>is similar to the Clone Stamp, but it blends the copied pixels with the surrounding pixels for a more natural look.</li>
+
+
+
+<li><strong>The History Brush</strong>&nbsp;allows you to revert an image to a previous state. This is useful for undoing mistakes or going back to a point in your workflow where you were happy with the image.</li>
+
+
+
+<li><strong>Blur&nbsp;</strong>blurs the pixels in an image, making them less distinct. This can be used to create a soft, dreamy look or reduce the appearance of wrinkles and other imperfections.</li>
+
+
+
+<li><strong>Sharpen&nbsp;</strong>does the opposite of Blur, making pixels more distinct. This can be useful for making an image appear more transparent or creating a more dramatic effect.</li>
+
+
+
+<li><strong>Dodge and Burn&nbsp;</strong>are used to lighten or darken areas of an image. These are commonly used in photo retouching to make subjects appear more defined.</li>
+
+
+
+<li><strong>The Sponge tool</strong>&nbsp;can either absorb or release color from an image. This is useful for correcting colors that are too light or too dark.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">What is the most recent version of Photoshop?</h3>
+
+
+
+<p>The most recent version, Photoshop 2022 (desktop), is version 23.3.1 released in April 2022, while Adobe released the latest cloud version in October of 2021.</p>
+
+
+
+<p>The&nbsp;<a href="https://helpx.adobe.com/photoshop/using/whats-new/2022-2.html" target="_blank" rel="noreferrer noopener">newest edition</a>&nbsp;of Photoshop updated copy-paste support from Illustrator to Photoshop, making it easier to move text layers and other typographic properties. Adobe has also improved the quality along edges in objects in its Sky Replacement feature. More enhancements include the addition of multithreaded and GPU compositing options for faster performance, the ability to search cloud documents in recents and improvements in Photoshop&#8217;s saving preferences. &nbsp;</p>
+
+
+
+<p>Adobe has also removed the camera shake reduction function due to incompatibly with newer development platforms and the quick share feature due to lack of use. The company has, however, added support for additional cameras and lenses.</p>
+
+
+
+<p>Recent versions of Photoshop also include features such as an object selection tool, a properties panel, updated keyboard shortcuts for paint and brush, an enhanced transform warp and a background image removal option.</p>
+
+
+
+<p>They also incorporate some administrative functions such as automation features to reduce the need for repetitive tasks.</p>
+
+
+
+<p>Photoshop&#8217;s feature set can be further expanded through Photoshop plug-ins which are programs developed and distributed independently of Photoshop that can run inside and offer new or enhanced features.</p>
+
+
+
+<h3 class="wp-block-heading">Who uses Photoshop?</h3>
+
+
+
+<p>Photographers, graphic designers, web designers, Discord emoji creators and meme-makers all use Photoshop to edit images, create new high-quality images, or both.</p>
+
+
+
+<p>The software is available for a monthly fee from Adobe or as part of the Adobe Creative Cloud subscription service.</p>
+
+
+
+<p>Adobe Photoshop Elements is an alternative to traditional Photoshop. It is a graphics editor for photographers, image editors and hobbyists. It contains most of the features of the professional version but with fewer features and a simpler user interface.</p>
+
+
+
+<p><a href="https://www.techtarget.com/whatis/definition/GIMP-GNU-Image-Manipulation-Program">GIMP</a>&nbsp;is an open source alternative to Photoshop that works on macOS, Microsoft Windows and Linux.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpsinramee.github.io/it_tutorial//2023/08/16/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

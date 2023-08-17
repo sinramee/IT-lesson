@@ -3729,7 +3729,7 @@
 		opacity: 0.2;
 	}
 	.retrieving-posts .filter-tab-content-wrapper:after {
-		content: url('../images/loader/loader_one.gif');
+		content: url('httpsinramee.github.io/it_tutorial//wp-content/themes/newsmatic/assets/images/loader/loader_one.gif');
 		position: absolute;
 	    left: 50%;
 	    top: 50%;
